@@ -1,5 +1,6 @@
 ## Hello, I am SudoNotNoted2007
- - Currently learning C++, Python, C#, HTML and Java.
+ - Currently learning C++, C and Python.
+ - I usually use C++.
  - I like coding, I guess.
 
 <!--
